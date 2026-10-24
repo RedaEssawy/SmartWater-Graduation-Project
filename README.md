@@ -5,12 +5,11 @@ A Flutter mobile app for monitoring and controlling a household water system: ta
 This is my graduation project for the B.Sc. in Electrical Engineering (Computers Division) at Fayoum University, 2025. It was graded Excellent. I developed the mobile application in Flutter and Dart. The system as a whole combines sensors and actuators on the water line with this app on top.
 
 ## Screenshots
+<img src="docs/screenshots/control.jpeg" width="240">
+<img src="docs/screenshots/consumption-chart-screen.jpeg" width="240">
+<img src="docs/screenshots/tank-status-screen.jpeg" width="240">
 
-![Control Screen](assets/images/controle-page.jpeg)
-![Consumption Screen](assets/images/consumption-chart-screen.jpeg)
-![Tank-status Screen](assets/images/tank-status-screen.jpeg)
-
-## What the app does
+## What the app does:
 
 - Shows live readings for tank level, flow rate and pressure
 - Tracks water consumption and plots it over time
