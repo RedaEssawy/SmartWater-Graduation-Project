@@ -6,7 +6,7 @@ This is my graduation project for the B.Sc. in Electrical Engineering (Computers
 
 ## Screenshots
 
-![Control Screen](assets/images/control.jpeg)
+![Control Screen](assets/images/controle-page.jpeg)
 ![Consumption Screen](assets/images/consumption-chart-screen.jpeg)
 ![Tank-status Screen](assets/images/tank-status-screen.jpeg)
 
